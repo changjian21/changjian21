@@ -40,14 +40,7 @@ Here are some ideas to get you started:
  
 <br>
  
-<p align="center">
 
-    <img src="https://github-readme-stats.vercel.app/api?username=changjian21&title_color=333&text_color=777" alt="changjian21's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=changjian21&hide=issues&title_color=333&text_color=777" alt="changjian21's Stats" >
-    -->
-
-</p>
  
 <p align="center">
   <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
