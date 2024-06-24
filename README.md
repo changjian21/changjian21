@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);changjian同学祝您今天愉快!&center=true&size=27"> </a> </h1>
-<a href="https://github.com/changjian21/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=changjian21&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a>
  
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (changjian)</a>
  
