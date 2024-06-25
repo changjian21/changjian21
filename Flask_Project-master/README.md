@@ -32,4 +32,5 @@
 ## 可用账号
 账号：andy
 密码：123456
-
+## er图
+<img width="1085" alt="bab62dfc3135338f1dfac8b210eb278" src="https://github.com/changjian21/changjian21/assets/172462535/0fc3b8b8-1dac-4346-8a71-15d16bf803ba">
