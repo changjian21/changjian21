@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 ## Hi, 👋  I'm changjian
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="http://welcome.voup.cn' target='_blank" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
     
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
 </details>
   
-  ✨ 站主目前为某大学大三废物学生，在应付期末作业，喜欢睡觉，吃饭和导管。该站存放本人的一些程序bug，顺便记录自己的随想心得，欢迎大家来和我讨论技术上的问题。
+  ✨ 站主目前为大三学生，在忙于期末作业，喜欢运动和看书。该站存放小组作业的一些程序，顺便记录自己的随想心得，欢迎大家来和我讨论技术上的问题。
  
  
 <!--my introduction end -->
@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
-* <a href='https://www.educoder.net/classrooms/N2R6QOCB/common_homework/1767803/detail?tabs=1' target='_blank'>想帮我写作业吗</a> 🌟🌟🌟🌟🌟 力荐
-* <a href='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>黄色网站</a> 🌟🌟🌟🌟🌟 力荐
+* <a href='https://www.educoder.net/classrooms/N2R6QOCB/common_homework/1767803/detail?tabs=1' target='_blank'>想帮我写作业吗</a> 🌟🌟🌟🌟🌟 站主推荐
+* <a href='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>考研数学</a> 🌟🌟🌟🌟🌟 站主推荐
 
  
  
